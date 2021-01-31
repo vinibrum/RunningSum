@@ -1,3 +1,7 @@
+// Source : https://leetcode.com/problems/running-sum-of-1d-array/
+// Author : Vinícius Brum
+// Date   : 28-01-2021
+
 #include <stdio.h>
 #include <stdlib.h>
 
